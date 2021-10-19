@@ -1,100 +1,100 @@
 item {
   name: "hijab_niqab"
   id: 1
-  display_name: "hijab_niqab"
+  display_name: "burka"
 }
 item {
   name: "mask_colorful"
   id: 2
-  display_name: "mask_colorful"
+  display_name: "maskara_koloretsua"
 }
 item {
   name: "mask_surgical"
   id: 3
-  display_name: "mask_surgical"
+  display_name: "maskara_kirurgiko"
 }
 item {
   name: "face_no_mask"
   id: 4
-  display_name: "face_no_mask"
+  display_name: "maskara_gabe"
 }
 item {
   name: "face_with_mask_incorrect"
   id: 5
-  display_name: "face_with_mask_incorrect"
+  display_name: "maskara_oker"
 }
 item {
   name: "face_with_mask"
   id: 6
-  display_name: "face_with_mask"
+  display_name: "maskararekin"
 }
 item {
   name: "face_other_covering"
   id: 7
-  display_name: "face_other_covering"
+  display_name: "beste_zerbait_tapatzen"
 }
 item {
   name: "scarf_bandana"
   id: 8
-  display_name: "scarf_bandana"
+  display_name: "Zapi_bendana"
 }
 item {
   name: "balaclava_ski_mask"
   id: 9
-  display_name: "balaclava_ski_mask"
+  display_name: "maskara"
 }
 item {
   name: "face_shield"
   id: 10
-  display_name: "face_shield"
+  display_name: "pantaila_protektorea"
 }
 item {
   name: "other"
   id: 11
-  display_name: "other"
+  display_name: "Beste_bat"
 }
 item {
   name: "gas_mask"
   id: 12
-  display_name: "gas_mask"
+  display_name: "gas_maskara"
 }
 item {
   name: "turban"
   id: 13
-  display_name: "turban"
+  display_name: "turbantea"
 }
 item {
   name: "helmet"
   id: 14
-  display_name: "helmet"
+  display_name: "kaskoa"
 }
 item {
   name: "sunglasses"
   id: 15
-  display_name: "sunglasses"
+  display_name: "eguzkitako_betaurrekoak"
 }
 item {
   name: "eyeglasses"
   id: 16
-  display_name: "eyeglasses"
+  display_name: "ikusteko_betaurrekoak"
 }
 item {
   name: "hair_net"
   id: 17
-  display_name: "hair_net"
+  display_name: "ilerako_sarea"
 }
 item {
   name: "hat"
   id: 18
-  display_name: "hat"
+  display_name: "kapela"
 }
 item {
   name: "goggles"
   id: 19
-  display_name: "goggles"
+  display_name: "betaurreko_babesleak"
 }
 item {
   name: "hood"
   id: 20
-  display_name: "hood"
+  display_name: "txanoa"
 }
